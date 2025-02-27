@@ -1,0 +1,56 @@
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+current rank 1 total ranks 4
+Num element = 268435456
+done
+current rank 3 total ranks 4
+Num element = 268435456
+done
+current rank 2 total ranks 4
+Num element = 268435456
+done
+current rank 0 total ranks 4
+Num element = 268435456
+done

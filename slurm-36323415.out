@@ -1,0 +1,95 @@
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+launch.sh: line 3: 676326 Killed                  python3 $1
+slurmstepd: error: Detected 1 oom_kill event in StepId=36323415.0. Some of the step tasks have been OOM Killed.
+srun: error: nid003301: task 5: Out Of Memory
+srun: Terminating StepId=36323415.0
+slurmstepd: error: *** STEP 36323415.0 ON nid002148 CANCELLED AT 2025-02-27T18:48:55 ***
+srun: error: nid002148: tasks 0-3: Terminated
+srun: Force Terminated StepId=36323415.0

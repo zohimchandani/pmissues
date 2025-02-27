@@ -1,0 +1,49 @@
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+=========================
+      NVIDIA CUDA-Q      
+=========================
+
+Version: cu11-latest
+
+Copyright (c) 2025 NVIDIA Corporation & Affiliates 
+All rights reserved.
+
+To run a command as administrator (user `root`), use `sudo <command>`.
+
+launch.sh: line 3: 796840 Killed                  python3 $1
+slurmstepd: error: Detected 1 oom_kill event in StepId=36325542.0. Some of the step tasks have been OOM Killed.
+srun: error: nid004045: task 3: Out Of Memory
+srun: Terminating StepId=36325542.0
+slurmstepd: error: *** STEP 36325542.0 ON nid004045 CANCELLED AT 2025-02-27T19:13:03 ***
