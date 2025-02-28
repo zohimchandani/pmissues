@@ -3,7 +3,9 @@
 #SBATCH --gpus-per-task=1
 #SBATCH --ntasks-per-node=4
 #SBATCH --gpu-bind=none
-#SBATCH -t 00:10:00
+#SBATCH -t 00:30:00
+#SBATCH --mail-user=zchandani@nvidia.com
+#SBATCH --mail-type=ALL
 #SBATCH -q debug
 #SBATCH -A m4955
 #SBATCH -C gpu
@@ -12,4 +14,4 @@
 
 export CUDAQ_MPI_COMM_LIB=${HOME}/distributed_interfaces/libcudaq_distributed_interface_mpi.so
 
-srun --mpi=pmix -N 1 -n 4 shifter bash -l launch.sh ansys.py
+srun -N 1 -n 4 shifter bash -l launch.sh ansys.py
